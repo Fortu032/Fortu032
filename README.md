@@ -1,6 +1,7 @@
-Università di Verona, 21 anni
+## Informazioni
 
-<!---
-Fortu032/Fortu032 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Laurea triennale in informatica - Università di Verona
+
+🎂 02/02/2003
+
+🐍 Programmo in Python
