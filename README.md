@@ -1,7 +1,8 @@
-## Informazioni
+## Basic info about me
 
-🎓 Laurea triennale in informatica - Università di Verona
+🎓 Bachelor degree in Computer Science - University of Verona ✅
+🎓 Master degree in Data Science - University of Verona 🔜
 
 🎂 02/02/2003
 
-🐍 Programmo in Python
+🐍 Programming in Python
